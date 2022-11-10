@@ -2,6 +2,6 @@ module JuliaTFI
 
 include("block.jl")
 
-export block
+export block, red2full
 
 end
