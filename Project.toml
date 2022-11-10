@@ -1,0 +1,4 @@
+name = "JuliaTFI"
+uuid = "522049d0-bc4b-4e0f-94f5-bc081f8d936d"
+authors = ["jman87 <jman87@users.noreply.github.com>"]
+version = "0.1.0"
